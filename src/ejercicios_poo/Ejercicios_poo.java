@@ -15,6 +15,7 @@ public class Ejercicios_poo {
     public static void main(String[] args) {
         
         System.out.println("hola soy karen");
+        System.out.println("tengo 20 años");
     }
     
 }
